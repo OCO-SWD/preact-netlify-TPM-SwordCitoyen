@@ -4,7 +4,7 @@ date: 2021-03-08T10:49:20.353Z
 subtitle: Le Crous et ses partenaires proposent plusieurs possibilités
   d’accompagnement psychologique à Nice, Sophia Antipolis ou La Garde et depuis
   février 2021 un accès à la ligne d’écoute téléphonique de l’association SPS.
-cover: https://www.crous-nice.fr/aides-sociales/aide-psychologique/
+cover: /assets/screen-crousavecvous-soutien-psy-generique-600x338.png
 tags: Campus Toulon, CROUS, Aides, Soutien, BAPU, Ecoute
 ---
 <!--StartFragment-->
