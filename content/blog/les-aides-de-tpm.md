@@ -1,5 +1,5 @@
 ---
-title: LES AIDES DE TPM
+title: Les aides de TPM
 date: 2021-03-08T10:53:08.883Z
 subtitle: Le fonds d'aide aux jeunes (FAJ)
 cover: /assets/mains_multiraciale_op.jpg
