@@ -7,7 +7,7 @@ subtitle: Le Crous et ses partenaires proposent plusieurs possibilités
 cover: /assets/screen-crousavecvous-soutien-psy-generique-600x338.png
 tags: Campus Toulon, CROUS, Aides, Soutien, BAPU, Ecoute
 ---
-**📞 DEPUIS FÉVRIER 2021, UNE LIGNE D’ÉCOUTE TÉLÉPHONIQUE POUR TOUS LES ÉTUDIANTS DE L’**ACADÉMIE DE NICE
+**📞 DEPUIS FÉVRIER 2021, UNE LIGNE D’ÉCOUTE TÉLÉPHONIQUE POUR TOUS LES ÉTUDIANTS DE L’ACADÉMIE DE NICE**
 
 Engagé depuis des années en faveur de la santé mentale des étudiants aux côtés du Bapu, le Crous a souhaité élargir son dispositif de soutien psychologique en collaborant avec l’association Soins aux Professionnels de la Santé (SPS).
 
