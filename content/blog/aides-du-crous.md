@@ -1,6 +1,6 @@
 ---
 title: Aides du CROUS
-date: 2021-03-08T10:49:20.353Z
+date: 2021-03-10T10:20:00.000Z
 subtitle: Le Crous et ses partenaires proposent plusieurs possibilités
   d’accompagnement psychologique à Nice, Sophia Antipolis ou La Garde et depuis
   février 2021 un accès à la ligne d’écoute téléphonique de l’association SPS.
